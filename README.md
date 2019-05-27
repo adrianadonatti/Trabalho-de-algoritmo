@@ -1,9 +1,8 @@
 # Trabalho-de-algoritmo
-trabalho de java
 
 
 
-Trabalho 02 – 2º Bimestre
+Questão 10
 
 Faça um algoritmo que leia o nome do aluno, a nota total dos trabalhos, a nota da
 
