@@ -22,7 +22,7 @@ public class Ex08 {
     	    
     	    for (i=1; i<n; i++) {
         	    for (i2=1; i2<3; i2++) {
-        	      System.out.printf("Informe a Nota "+i2 + " do Aluno " + i +" : ");
+		      System.out.printf("Informe a Nota "+i2 + " do Aluno " + nome[i] +" : ");
 	    	      v[i][i2] = sc.nextDouble();
         	    }
     	    }
