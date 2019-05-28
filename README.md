@@ -28,6 +28,7 @@ nota1 a nota2 e a média desse aluno.
 9) Faça um algoritmo que leia o nome e a idade de 3 pessoas. Essas informações devem
 ser salvas em um vetor. Ao final da leitura, mostre o nome da pessoa, a idade e se a
 pessoa é maior ou menor de idade.
+
 10)Faça um algoritmo que leia o nome do aluno, a nota total dos trabalhos, a nota da
 primeira e segunda avaliação, calcule a nota final e o conceito obtido seguindo a seguinte
 formula:
